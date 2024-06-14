@@ -1,0 +1,17 @@
+*.pyc
+*~
+__pycache__
+venv/
+.venv/
+.env
+db.sqlite3
+/static
+.cache/
+.idea/
+Thumbs.db
+
+*/celerybeat-schedule.*
+celerybeat.pid
+
+/data
+mysite_data.json
